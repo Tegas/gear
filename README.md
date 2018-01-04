@@ -3,37 +3,37 @@ AQ
 Created Thursday 21 December 2017
 
 Kri/Yauj/Vem
-* Chest - Vest of Swift Execution (+50 tank/50 dps)
-* Hands - (alt)Bile covered gauntlets (+130 tank)
-* Helm - Guise of the Devourer (+200 tank)
+* Chest - Vest of Swift Execution (+50 tank/50 dps) (#4tank/#2dps)
+* Hands - (alt)Bile covered gauntlets (+130 tank) (#2)
+* Helm - Guise of the Devourer (+200 tank) (#1)
 
 Sartura
-* Hands - Gloves of Enforcement (+60 dps)
-* Waist - Thisk Qirajihide belt (+50 tank)
+* Hands - Gloves of Enforcement (+60 dps) (#1)
+* Waist - Thisk Qirajihide belt (+50 tank) (#1)
 
 Fankriss
-* Shoulders - Mantle of Wicked Revenge (+30 dps)
-* Chest - Robes of the guardian saint (+25 healing)
-* Boots - Hive tunneler's boots) (+150 tank)
+* Shoulders - Mantle of Wicked Revenge (+30 dps) (#1)
+* Chest - Robes of the guardian saint (+25 healing) (#2)
+* Boots - Hive tunneler's boots) (+150 tank) (#1)
 
 Huhuran
-* Hands - Wasphide Gauntlets (+12 healing)
-* Hands - (alt) Gloves of the Messiah (+6 healing) 
-* Ring - Ring of the Martyr (+18 healing)
+* Hands - Wasphide Gauntlets (+12 healing) (#2)
+* Hands - (alt) Gloves of the Messiah (+6 healing) (#3)
+* Ring - Ring of the Martyr (+18 healing)(#1)
 
 Twin Emps
-* Bracers - Bracelets of Royal Redemption (+22 healing)
-* Bracers -Qiraji Execution Bracers (+30 tank/30 dps)
-* Hands - Gloves of the hidden temple (+180 tank/20 dps)
+* Bracers - Bracelets of Royal Redemption (+22 healing) (#1)
+* Bracers -Qiraji Execution Bracers (+30 tank/30 dps) (#1dps/#2tank)
+* Hands - Gloves of the hidden temple (+180 tank/20 dps) (#1tank/#2dps)
 
 Ouro
-* Helm - Don Rigoberto's lost Hat (+30 healing)
+* Helm - Don Rigoberto's lost Hat (+30 healing) (#1 non-world boss)
 
 C'Thun
-* Neck - Amulet of the fallen god (+25 healing)
-* Neck - Mark of C'Thun (+20 tank)
-* Back - Cloak of Clarity (+17 healing)
-* Back - Cloak of the fallen god (+9 dps)
-* Waist - Grasp of the old god (+18 healing)
-* Waist - Belt of never ending agony (+20 dps)
-* Weapon - Scepter of the False Prophet (+165 healing)
+* Neck - Amulet of the fallen god (+25 healing) (#1)
+* Neck - Mark of C'Thun (+20 tank) (#1)
+* Back - Cloak of Clarity (+17 healing) (#2)
+* Back - Cloak of the fallen god (+9 dps) (#1)
+* Waist - Grasp of the old god (+18 healing) (#1)
+* Waist - Belt of never ending agony (+20 dps) (#1)
+* Weapon - Scepter of the False Prophet (+165 healing) (#2)
