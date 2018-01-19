@@ -11,6 +11,7 @@ Sartura
 * Hands - Gloves of Enforcement (+60 dps) (#1)
 * Waist - Thisk Qirajihide belt (+50 tank) (#1)
 * Off Hand - Sartura's Might (+7 healing) (#2)
+* Helm - Creeping Vine Helm (+12 healing) (#2)
 
 Fankriss
 * Shoulders - Mantle of Wicked Revenge (+30 dps) (#1)
