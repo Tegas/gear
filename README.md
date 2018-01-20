@@ -45,7 +45,8 @@ C'Thun
 
 
 ----
-==Hybrid Set==
+Hybrid Set
+==
 * Creeping Vine Helm
 * Wild Growth Spaulders
 * Shroud of pure thought
