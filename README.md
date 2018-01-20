@@ -27,6 +27,7 @@ Twin Emps
 * Bracers - Bracelets of Royal Redemption (+22 healing) (#1)
 * Bracers -Qiraji Execution Bracers (+30 tank/30 dps) (#1dps/#2tank)
 * Hands - Gloves of the hidden temple (+180 tank/20 dps) (#1tank/#2dps)
+* Belt - Regenerating belt of Venk (-5 healing/-50 tank) 
 
 Ouro
 * Helm - Don Rigoberto's lost Hat (+30 healing) (#1 non-world boss)
@@ -39,3 +40,23 @@ C'Thun
 * Waist - Grasp of the old god (+18 healing) (#1)
 * Waist - Belt of never ending agony (+20 dps) (#1)
 * Weapon - Scepter of the False Prophet (+165 healing) (#2)
+
+
+
+
+----
+Hybrid Set
+Creeping Vine Helm
+Wild Growth Spaulders
+Shroud of pure thought
+Stormrage Chest
+Stormrage Bracers
+Stormrage Boots
+Stormrage Legs
+Jin'do's Evil Eye
+Wasphide Gauntlets
+Regenerating Belt of Vek'
+Pure Elementium Band
+Cauterizing Band
+Sartura's Might
+Mace of Unending Life
