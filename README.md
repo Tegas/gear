@@ -45,18 +45,18 @@ C'Thun
 
 
 ----
-Hybrid Set
-Creeping Vine Helm
-Wild Growth Spaulders
-Shroud of pure thought
-Stormrage Chest
-Stormrage Bracers
-Stormrage Boots
-Stormrage Legs
-Jin'do's Evil Eye
-Wasphide Gauntlets
-Regenerating Belt of Vek'
-Pure Elementium Band
-Cauterizing Band
-Sartura's Might
-Mace of Unending Life
+==Hybrid Set==
+* Creeping Vine Helm
+* Wild Growth Spaulders
+* Shroud of pure thought
+* Stormrage Chest
+* Stormrage Bracers
+* Stormrage Boots
+* Stormrage Legs
+* Jin'do's Evil Eye
+* Wasphide Gauntlets
+* Regenerating Belt of Vek'
+* Pure Elementium Band
+* Cauterizing Band
+* Sartura's Might
+* Mace of Unending Life
