@@ -61,3 +61,6 @@ Hybrid Set
 * Cauterizing Band
 * Sartura's Might
 * Mace of Unending Life
+
+Tank set: http://realmplayers.com/vchar/8JZYnu.aspx
+NAXX set: http://realmplayers.com/CharacterDesigner.aspx?data=HeiJyn
