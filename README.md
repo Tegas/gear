@@ -64,3 +64,50 @@ Hybrid Set
 
 Tank set: http://realmplayers.com/vchar/8JZYnu.aspx
 NAXX set: http://realmplayers.com/CharacterDesigner.aspx?data=HeiJyn
+
+---
+
+Nax
+==
+
+Arachnid
+---
+Anub'Rekhan
+
+Grand Widow Faerlina
+
+Maexxna
+
+Plague
+---
+Noth the Plaguebringer
+
+Heigan the Unclean
+
+Loatheb
+
+Military
+---
+Instructor Razuvious
+
+Gothik the Harvester
+
+The Four Horsemen
+
+Construct
+---
+Patchwerk
+
+Grobbulus
+
+Gluth
+
+Thaddius
+
+Frostwyrm
+---
+Sapphiron
+
+Kel'Thuzad
+
+
