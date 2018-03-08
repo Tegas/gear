@@ -70,39 +70,59 @@ NAXX set: http://realmplayers.com/CharacterDesigner.aspx?data=HeiJyn
 Nax
 ==
 
+Trash
+---
+* Chest - Ghoul Skin Tunic (+15 tank/+50dps) (#1)
+
 Arachnid
 ---
 Anub'Rekhan
+* Back - Cryptfiend Silk Cloak (+28 tank) (#1)
+* Wrist - Dreamwalker Wristguards (+21 healing) (#2)
 
 Grand Widow Faerlina
+* Wrist - Dreamwalker Wristguards (+21 healing) (#2)
 
 Maexxna
+* Hands - Dreamwalker Handguards (+14 healing) (#1)
 
 Plague
 ---
 Noth the Plaguebringer
+* Waist - Dreamwalker Girdle (+4 healing) (#2)
 
 Heigan the Unclean
 
 Loatheb
+* Legs - Dreamwalker Legguards (+23 healing) (#1)
 
 Military
 ---
 Instructor Razuvious
+* Feet - Dreamwalker Boots (+1 healing) (#1)
 
 Gothik the Harvester
+* Feet - Dreamwalker Boots (+1 healing) (#1)
 
 The Four Horsemen
+* Chest - Dreamwalker Tunic (+32 healing) (#1)
+* Legs - Leggings of Apocalypse (+50 tank/+55 dps) (#1)
+
 
 Construct
 ---
 Patchwerk
+* Shoulders - Dreamwalker Spaulders (+2 healing) (#1)
+* Back - Cloak of Suturing (+19 healing) (#1)
 
 Grobbulus
+* Shoulders - Dreamwalker Spaulders (+2 healing) (#1)
 
 Gluth
+* Feet - Dreamwalker Boots (+1 healing) (#1)
 
 Thaddius
+* Helm - Dreamwalker Headpiece (+12 healing) (#2)
 
 Frostwyrm
 ---
