@@ -131,3 +131,19 @@ Sapphiron
 Kel'Thuzad
 
 
+
+
+-----
+Patchwerk gear:
+http://realmplayers.com/CharacterDesigner.aspx?char=Night_Elf+Druid+Female&items=Headx21693x2545+Neckx22732+Shoulderx19389x2606+Backx19386x2622+Chestx21680x1891+Shirtx49+Wristx21602x1886+Glovesx21605x2564+Beltx20261+Legsx11821x2545+Feetx21645x929+Finger_1x19376+Finger_2x21601+Trinket_1x17904+Trinket_2x13966+Main_Handx943x2646+
+
+13 dodge from gear
+29 defense = .5 dodge
+206 agi = ~21 dodge
+racial = 1% dodge
+3% from buffs
+= ~38 dodge 
+
+2171 armor * 1.10(talent) * 4.6(bear form) + ~300(agi) = ~11000 armor?
+
+= 
