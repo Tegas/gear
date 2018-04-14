@@ -146,4 +146,7 @@ racial = 1% dodge
 
 2171 armor * 1.10(talent) * 4.6(bear form) + ~300(agi) = ~11000 armor?
 
-= 
+---
+Saph
+
+http://realmplayers.com/vchar/ZHStL3.aspx
