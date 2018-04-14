@@ -149,4 +149,9 @@ racial = 1% dodge
 ---
 Saph
 
-http://realmplayers.com/vchar/ZHStL3.aspx
+http://realmplayers.com/vchar/WqBx1J.aspx
+Frost Resist items
+* Chest - Crafted - 7 runes
+* Hands - Crafted - 5 runes
+* Legs - Quest - 2 runes
+* Ring - quest 1 rune
